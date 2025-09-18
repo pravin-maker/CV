@@ -13,6 +13,6 @@ I am an Electronics and Communication Engineering (ECE) student with experience 
 ## 📫 Contact
 - 📧 Email: praveenkrr2005@gmail.com
 - 📧 Email: praveenps3050@outlook.com  
-- 📱 LinkedIn: [in/praveen-s-308887376]
+- 📱 LinkedIn: in/praveen-s-308887376
 
 Feel free to explore my work and connect with me!
