@@ -11,7 +11,7 @@ You can download my resume here:
 I am an Electronics and Communication Engineering (ECE) student with experience in mini projects, workshops, and practical hands-on training. I am passionate about technology, automation, and continuous learning.
 
 ## 📫 Contact
-- 📧 Email: praveenkrr2005@gmail.com
+- 📧 Email: praveen.signes@gmail.com
 - 📧 Email: praveenps3050@outlook.com  
 - 📱 LinkedIn: www.linkedin.com/in/praveen-s-308887376
 
