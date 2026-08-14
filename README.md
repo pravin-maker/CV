@@ -3,7 +3,7 @@
 Welcome to my resume repository!  
 Here you can find my CV and other professional documents.
 
-## 📄 My CV
+## 📄 My Resume
 You can download my resume here:  
 [Praveen S-Resume](./Praveen_S_Resume.pdf)
 
