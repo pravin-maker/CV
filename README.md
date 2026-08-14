@@ -1,7 +1,7 @@
 # Praveen S – Resume
 
 Welcome to my resume repository!  
-Here you can find my CV and other professional documents.
+Here you can find my Reasume and other professional documents.
 
 ## 📄 My Resume
 You can download my resume here:  
