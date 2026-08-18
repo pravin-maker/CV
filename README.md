@@ -4,7 +4,7 @@ Welcome to my resume repository!
 Here you can find my Reasume and other professional documents.
 
 ## 📄 My Resume
-[![Resume](https://img.shields.io/badge/📄%20Resume-View%20My%20CV-2ea44f?style=for-the-badge)](./Praveen_S_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20RESUME-View%20My%20Resume-0969DA?style=for-the-badge)](./Praveen_S_Resume.pdf)
 
 You can download my resume here:  
 [Praveen S-Resume](./Praveen_S_Resume.pdf)
